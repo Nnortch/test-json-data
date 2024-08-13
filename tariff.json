@@ -1,4 +1,5 @@
-{ "version":"1", "data":[ {
+{ "version":"1", 
+"data":[ {
             "id" : 1,
             "applicability" : "normal",
             "class" : "1.1",
@@ -15,5 +16,5 @@
             "authority" : "MEA",
             "id_tariff_type" : 1,
             "tariff_type" : "Normal1"
-        },
-] } 
+        }] 
+} 
