@@ -5,15 +5,7 @@
             "subclass" : "1.1",
             "authority" : "MEA",
             "id_tariff_type" : 1,
-            "tariff_type" : "Normal1",
-            "tariff_charge":[
-                {
-                "id" : 41,
-                "start" : "2022-12-31T17:00:00.000Z",
-                "energy_charge" : [{"from":1,"to":15,"charge":2.3488},{"from":16,"to":25,"charge":2.9882},{"from":26,"to":100,"charge":3.2405},{"from":101,"to":150,"charge":3.6237},{"from":151,"to":400,"charge":4.2218},{"from":401,"to":null,"charge":4.4217}],
-                "demand_charge" : null
-                }
-            ]
+            "tariff_type" : "Normal1"
         },
         {
             "id" : 2,
@@ -22,14 +14,6 @@
             "subclass" : "1.2",
             "authority" : "MEA",
             "id_tariff_type" : 1,
-            "tariff_type" : "Normal1",
-            "tariff_charge":[
-                {
-                "id" : 42,
-                "start" : "2022-12-31T17:00:00.000Z",
-                "energy_charge" : [{"from":1,"to":150,"charge":3.2484},{"from":151,"to":400,"charge":4.2218},{"from":401,"to":null,"charge":4.4217}],
-                "demand_charge" : null
-                }
-            ]
+            "tariff_type" : "Normal1"
         },
 ] } 
