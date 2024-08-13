@@ -1,20 +1,21 @@
-{ "version":"1", 
-"data":[ {
-            "id" : 1,
-            "applicability" : "normal",
-            "class" : "1.1",
-            "subclass" : "1.1",
-            "authority" : "MEA",
-            "id_tariff_type" : 1,
+{ 
+"version": "1", 
+"data": [ {
+            "id": 1,
+            "applicability": "normal",
+            "class": "1.1",
+            "subclass": "1.1",
+            "authority": "MEA",
+            "id_tariff_type": 1,
             "tariff_type" : "Normal1"
         },
         {
-            "id" : 2,
-            "applicability" : "normal",
-            "class" : "1.2",
-            "subclass" : "1.2",
-            "authority" : "MEA",
-            "id_tariff_type" : 1,
+            "id": 2,
+            "applicability": "normal",
+            "class": "1.2",
+            "subclass": "1.2",
+            "authority": "MEA",
+            "id_tariff_type": 1,
             "tariff_type" : "Normal1"
         }] 
 } 
